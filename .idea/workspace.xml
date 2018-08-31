@@ -7,6 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="New changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
@@ -34,6 +36,18 @@
   <component name="ErrorTreeViewConfiguration">
     <option name="hideWarnings" value="true" />
     <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/basico">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-405374392">
@@ -120,6 +134,39 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1039749743">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="xml" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="XML" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="java-study" />
@@ -139,6 +186,7 @@
     <findStrings>
       <find>num</find>
       <find>carro</find>
+      <find>basico</find>
     </findStrings>
     <replaceStrings>
       <replace>idade</replace>
@@ -181,6 +229,7 @@
         <option value="$PROJECT_DIR$/swing/src/Nome.java" />
         <option value="$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
         <option value="$PROJECT_DIR$/estruturado/src/Array.java" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
   </component>
@@ -219,12 +268,12 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -232,22 +281,12 @@
               <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="estruturado" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="estruturado" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -256,9 +295,9 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535336320710" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Login.fxml" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535718908384" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/basico" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -275,7 +314,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Array">
+  <component name="RunManager" selected="Application.Home">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="Estruturado" />
@@ -283,23 +322,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nome" />
-      <module name="swing" />
+    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2" />
+      <module name="basico" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpTernario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OpTernario" />
-      <module name="Estruturado" />
+    <configuration name="Cachorro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cachorro" />
+      <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Int" />
-      <module name="Estruturado" />
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Home" />
+      <module name="classeExterior" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -312,19 +351,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.String_Int" />
-      <item itemvalue="Application.OpTernario" />
-      <item itemvalue="Application.Nome" />
       <item itemvalue="Application.SwitchCase" />
       <item itemvalue="Application.Array" />
+      <item itemvalue="Application.Cachorro" />
+      <item itemvalue="Application.Array2" />
+      <item itemvalue="Application.Home" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Home" />
+        <item itemvalue="Application.Array2" />
         <item itemvalue="Application.Array" />
+        <item itemvalue="Application.Cachorro" />
         <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.Nome" />
-        <item itemvalue="Application.OpTernario" />
-        <item itemvalue="Application.String_Int" />
       </list>
     </recent_temporary>
   </component>
@@ -363,6 +402,9 @@
       <workItem from="1535333464678" duration="911000" />
       <workItem from="1535335193703" duration="5000" />
       <workItem from="1535335886989" duration="468000" />
+      <workItem from="1535718215748" duration="275000" />
+      <workItem from="1535718527527" duration="393000" />
+      <workItem from="1535719075245" duration="598000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -394,7 +436,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33765000" />
+    <option name="totallyTimeSpent" value="35031000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -406,9 +448,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627262" visible="true" weight="0.13859275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627262" visible="true" weight="0.14395887" />
       <window_info id="Structure" order="1" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -417,7 +459,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3290735" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32806325" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39829606" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,6 +469,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.5569755" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.5569755" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="Build" order="12" weight="0.32938075" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -436,6 +479,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32942432" />
+      <window_info anchor="right" id="Gradle" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,44 +556,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/estruturado/src/Comentario.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/DateTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/Idioma.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/Resolucao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/ReplaceCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/HelloWolrd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/DateTime.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/Idioma.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/Resolucao.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/ReplaceCode.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/HelloWolrd.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/TiposPrimitivos.java" />
     <entry file="file://$PROJECT_DIR$/swing/src/Calculadora.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -559,13 +570,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/estruturado/src/FomartCode.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/ComentCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/ComentCode.java" />
     <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -573,59 +578,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoComum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoComum.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoWrapperClass.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/FormatCode.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/For.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoTypeCast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/While.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/For.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoTypeCast.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/While.java" />
     <entry file="file://$PROJECT_DIR$/swing/src/Teste.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/Int_String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/String_Int.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/Int_String.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/String_Int.java" />
     <entry file="file://$USER_HOME$/Desktop/Login.fxml" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/OpTernario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/estruturado/src/OpTernario.java" />
     <entry file="file://$PROJECT_DIR$/swing/src/Nome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -640,24 +603,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/EntradaDados.java">
+    <entry file="file://$PROJECT_DIR$/estruturado/src/EntradaDados.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
+    <entry file="file://$PROJECT_DIR$/estruturado/src/Array.java" />
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+        <state relative-caret-position="144">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/SwitchCase.java">
+    <entry file="file://$PROJECT_DIR$/basico/src/Array2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/Array.java">
+    <entry file="file://$PROJECT_DIR$/basico/src/Array.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="18">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-746">
+          <caret line="344" column="26" selection-start-line="344" selection-start-column="20" selection-end-line="344" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -721,7 +708,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>swing</last-edited>
+          <last-edited>faculdade</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
