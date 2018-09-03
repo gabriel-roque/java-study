@@ -2,15 +2,15 @@ package caneta;
 // CLASSE MAE
 public class Caneta {
 // ATRIBUTOS
-        String modelo;
-        String cor;
-        float ponta;
-        int carga;
-        boolean tampada;
+        public String modelo;
+        public String cor;
+        private float ponta;
+        protected int carga;
+        protected boolean tampada;
 //METODOS
-        void rabiscar(){
+        public void rabiscar(){
                 if (this.tampada){
-                        System.out.println("Estou tampada");
+                        System.out.println("Estou tampada. Não posso rabiscar.");
                 }
                 else {
                         System.out.println("Estou rabiscando");
@@ -18,12 +18,12 @@ public class Caneta {
 
         }
 
-        void tampar(){
+        protected void tampar(){
                 this.tampada = true;
 
         }
 
-        void destampar(){
+        protected void destampar(){
                 this.tampada = false;
 
         }
