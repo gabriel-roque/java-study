@@ -9,8 +9,11 @@ public class MotoZ2Play {
         motoZ2play.anoLacamento = 2017;
         motoZ2play.espaco = 64;
         motoZ2play.memRam = 4;
+        motoZ2play.ligado = false;
 
         motoZ2play.status();
+        motoZ2play.desligar();
+        motoZ2play.ligar();
     }
 }
 

@@ -6,11 +6,26 @@ public class Motorola {
     int anoLacamento;
     int espaco;
     int memRam;
+    boolean ligado;
 
-    void ligado(){
+    void ligar(){
+        if (this.ligado){
+            System.out.println("Aparelho já ligado.");
+        }
+        else {
+            System.out.println("Ligando " + this.modelo);
+            this.ligado = true;
+        }
 
     }
-    void bloquear(){
+    void desligar(){
+        if(this.ligado){
+            System.out.println("Desligando " + this.modelo);
+            this.ligado = false;
+        }
+        else{
+            System.out.println("Aparelho já desligado.");
+        }
 
     }
     void status(){
@@ -19,6 +34,5 @@ public class Motorola {
         System.out.println("Ano de lancamento: " +  this.anoLacamento);
         System.out.println("Espaco de armazenamento: " +  this.espaco  + " GB");
         System.out.println("Memoria RAM: " +  this.memRam  + " GB RAM");
-
     }
 }

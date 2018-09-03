@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="New changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/Caneta/Caneta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java" beforeDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/../" />
@@ -146,23 +144,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="4" />
+          <entry key="java" value="10" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="10" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="java" value="303" />
           <entry key="xml" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="JAVA" value="303" />
           <entry key="XML" value="41" />
         </counts>
       </usages-collector>
@@ -206,7 +206,34 @@
     <favorites_list name="java-study" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <splitter split-orientation="horizontal" split-proportion="0.58354753">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="423">
+                  <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -270,9 +297,9 @@
         <option value="$PROJECT_DIR$/oObject/src/Caneta/Caneta.java" />
         <option value="$PROJECT_DIR$/oObject/src/Caneta/CanetaBic.java" />
         <option value="$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java" />
-        <option value="$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java" />
-        <option value="$PROJECT_DIR$/oObject/src/smartphone/Motorola.java" />
         <option value="$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java" />
+        <option value="$PROJECT_DIR$/oObject/src/smartphone/Motorola.java" />
+        <option value="$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java" />
       </list>
     </option>
   </component>
@@ -316,6 +343,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -334,13 +363,18 @@
               <item name="oObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="oObject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="smartphone" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -351,7 +385,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535980046315" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535989434655" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -370,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MotoG5">
+  <component name="RunManager" selected="Application.MotoZ2Play">
     <configuration name="Caneta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="caneta.Caneta" />
       <module name="oObject" />
@@ -427,8 +461,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MotoG5" />
         <item itemvalue="Application.MotoZ2Play" />
+        <item itemvalue="Application.MotoG5" />
         <item itemvalue="Application.MinhasCanetas" />
         <item itemvalue="Application.Caneta" />
         <item itemvalue="Application.Home" />
@@ -515,7 +549,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44376000" />
+    <option name="totallyTimeSpent" value="45460000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,9 +561,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087003" visible="true" weight="0.12113127" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087003" visible="true" weight="0.14781491" />
       <window_info id="Structure" order="1" sideWeight="0.50912994" side_tool="true" weight="0.1189968" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -538,7 +573,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3265306" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3254282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39742213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -739,22 +774,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="180">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
