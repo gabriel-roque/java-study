@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="New changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
@@ -168,20 +169,34 @@
     <session id="-1561820959">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="5" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="15" />
+          <entry key="java" value="1037" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1037" />
+          <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -190,7 +205,34 @@
     <favorites_list name="java-study" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="567">
+                  <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/Caneta.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="588">
+                  <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -248,6 +290,12 @@
         <option value="$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
         <option value="$PROJECT_DIR$/estruturado/src/Array.java" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/classeExterior/src/Operacoes.java" />
+        <option value="$PROJECT_DIR$/oObject/src/Caneta.java" />
+        <option value="$PROJECT_DIR$/oObject/src/CanetaBic.java" />
+        <option value="$PROJECT_DIR$/oObject/src/Caneta/Caneta.java" />
+        <option value="$PROJECT_DIR$/oObject/src/Caneta/CanetaBic.java" />
+        <option value="$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java" />
       </list>
     </option>
   </component>
@@ -264,7 +312,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
+    <option name="x" value="1723" />
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -291,8 +339,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -303,27 +349,39 @@
             <path>
               <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="classeExterior" type="462c0819:PsiDirectoryNode" />
+              <item name="oObject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="classeExterior" type="462c0819:PsiDirectoryNode" />
+              <item name="oObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="oObject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Caneta" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535746515585" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535944323286" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -342,14 +400,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Home">
-    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array" />
-      <module name="Estruturado" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array2" />
       <module name="basico" />
@@ -364,6 +415,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Caneta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caneta.Caneta" />
+      <module name="oObject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Home" />
       <module name="classeExterior" />
@@ -371,27 +429,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
-      <module name="Estruturado" />
+    <configuration name="MinhasCanetas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Caneta.MinhasCanetas" />
+      <module name="oObject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SwitchCase" />
-      <item itemvalue="Application.Array" />
       <item itemvalue="Application.Cachorro" />
       <item itemvalue="Application.Array2" />
       <item itemvalue="Application.Home" />
+      <item itemvalue="Application.Caneta" />
+      <item itemvalue="Application.MinhasCanetas" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinhasCanetas" />
+        <item itemvalue="Application.Caneta" />
         <item itemvalue="Application.Home" />
-        <item itemvalue="Application.Array2" />
-        <item itemvalue="Application.Array" />
         <item itemvalue="Application.Cachorro" />
-        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.Array2" />
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +493,13 @@
       <workItem from="1535719075245" duration="598000" />
       <workItem from="1535746472156" duration="12000" />
       <workItem from="1535746502645" duration="27000" />
+      <workItem from="1535765861630" duration="31000" />
+      <workItem from="1535770878098" duration="34000" />
+      <workItem from="1535827343288" duration="891000" />
+      <workItem from="1535828702193" duration="365000" />
+      <workItem from="1535919572441" duration="339000" />
+      <workItem from="1535919933029" duration="602000" />
+      <workItem from="1535937135523" duration="5551000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -466,7 +531,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35070000" />
+    <option name="totallyTimeSpent" value="42883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -478,10 +543,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1920" height="1080" extended-state="6" />
+    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627262" visible="true" weight="0.14727855" />
-      <window_info id="Structure" order="1" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087003" visible="true" weight="0.1189968" />
+      <window_info id="Structure" order="1" sideWeight="0.50912994" side_tool="true" weight="0.1189968" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -489,8 +555,8 @@
       <window_info id="Favorites" order="6" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290735" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32721382" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39829606" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3265306" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39742213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4989339" weight="0.3290735" />
@@ -498,7 +564,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.5569755" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.5569755" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3290735" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32867885" />
       <window_info anchor="bottom" id="Build" order="12" weight="0.32938075" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -624,13 +690,6 @@
     <entry file="file://$PROJECT_DIR$/estruturado/src/EntradaDados.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/Array.java" />
-    <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basico/src/Array2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -661,8 +720,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/classeExterior/src/Home.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="84">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Operacoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#555#556#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/bic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/Caneta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
         </state>
       </provider>
     </entry>
