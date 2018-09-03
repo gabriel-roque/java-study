@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="New changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oObject/src/Caneta/Caneta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java" beforeDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/../" />
@@ -169,33 +170,33 @@
     <session id="-1561820959">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="5" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
+          <entry key="java" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="java" value="1037" />
+          <entry key="java" value="1551" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1037" />
+          <entry key="JAVA" value="1551" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
       </usages-collector>
@@ -205,34 +206,7 @@
     <favorites_list name="java-study" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="567">
-                  <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/Caneta.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="588">
-                  <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -296,6 +270,9 @@
         <option value="$PROJECT_DIR$/oObject/src/Caneta/Caneta.java" />
         <option value="$PROJECT_DIR$/oObject/src/Caneta/CanetaBic.java" />
         <option value="$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java" />
+        <option value="$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java" />
+        <option value="$PROJECT_DIR$/oObject/src/smartphone/Motorola.java" />
+        <option value="$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java" />
       </list>
     </option>
   </component>
@@ -357,20 +334,13 @@
               <item name="oObject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="oObject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Caneta" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -381,7 +351,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535944323286" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535980046315" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -400,23 +370,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Array2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2" />
-      <module name="basico" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cachorro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cachorro" />
-      <module name="faculdade" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MotoG5">
     <configuration name="Caneta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Caneta.Caneta" />
+      <option name="MAIN_CLASS_NAME" value="caneta.Caneta" />
       <module name="oObject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -430,26 +386,52 @@
       </method>
     </configuration>
     <configuration name="MinhasCanetas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Caneta.MinhasCanetas" />
+      <option name="MAIN_CLASS_NAME" value="caneta.MinhasCanetas" />
       <module name="oObject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MotoG5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="smartphone.MotoG5" />
+      <module name="oObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smartphone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotoZ2Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="smartphone.MotoZ2Play" />
+      <module name="oObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="smartphone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Cachorro" />
-      <item itemvalue="Application.Array2" />
       <item itemvalue="Application.Home" />
       <item itemvalue="Application.Caneta" />
       <item itemvalue="Application.MinhasCanetas" />
+      <item itemvalue="Application.MotoZ2Play" />
+      <item itemvalue="Application.MotoG5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MotoG5" />
+        <item itemvalue="Application.MotoZ2Play" />
         <item itemvalue="Application.MinhasCanetas" />
         <item itemvalue="Application.Caneta" />
         <item itemvalue="Application.Home" />
-        <item itemvalue="Application.Cachorro" />
-        <item itemvalue="Application.Array2" />
       </list>
     </recent_temporary>
   </component>
@@ -500,6 +482,8 @@
       <workItem from="1535919572441" duration="339000" />
       <workItem from="1535919933029" duration="602000" />
       <workItem from="1535937135523" duration="5551000" />
+      <workItem from="1535972484302" duration="361000" />
+      <workItem from="1535978934612" duration="1132000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -531,7 +515,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42883000" />
+    <option name="totallyTimeSpent" value="44376000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -544,9 +528,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087003" visible="true" weight="0.1189968" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49087003" visible="true" weight="0.12113127" />
       <window_info id="Structure" order="1" sideWeight="0.50912994" side_tool="true" weight="0.1189968" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -736,35 +719,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#649#650#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/bic.java">
+    <entry file="file://$PROJECT_DIR$/oObject/src/bic.java" />
+    <entry file="file://$PROJECT_DIR$/oObject/src/caneta/MinhasCanetas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="630">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/Caneta.java">
+    <entry file="file://$PROJECT_DIR$/oObject/src/caneta/Caneta.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/Caneta/MinhasCanetas.java">
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="252">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoZ2Play.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
