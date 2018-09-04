@@ -11,6 +11,7 @@ public class MinhasCanetas {
         canetabic.tampada = false;
 
         canetabic.status();
+        canetabic.tampar();
         canetabic.rabiscar();
 
     }
