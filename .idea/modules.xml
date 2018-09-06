@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/classeExterior/classeExterior.iml" filepath="$PROJECT_DIR$/classeExterior/classeExterior.iml" />
       <module fileurl="file://$PROJECT_DIR$/faculdade/faculdade.iml" filepath="$PROJECT_DIR$/faculdade/faculdade.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-study.iml" filepath="$PROJECT_DIR$/.idea/java-study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/negao/negao.iml" filepath="$PROJECT_DIR$/negao/negao.iml" />
       <module fileurl="file://$PROJECT_DIR$/oObject/oObject.iml" filepath="$PROJECT_DIR$/oObject/oObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/swing/swing.iml" filepath="$PROJECT_DIR$/swing/swing.iml" />
     </modules>
