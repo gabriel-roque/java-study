@@ -1,4 +1,4 @@
-package metodosEspeciais;
+package metodosespeciais;
 
 public class CanetaBic {
     public static void main(String[] args) {

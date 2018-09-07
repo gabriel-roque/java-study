@@ -1,4 +1,4 @@
-package reinoAnimal;
+package reinoanimal;
 
 import javax.swing.*;
 

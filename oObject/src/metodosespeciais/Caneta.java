@@ -1,4 +1,4 @@
-package metodosEspeciais;
+package metodosespeciais;
 // ESCREVO UMA VEZ APENAS E USO QUANTAS VEZES QUISER
  class Caneta {
     private String modelo;
@@ -17,7 +17,6 @@ package metodosEspeciais;
     }
 
     //obtendo os dados da classe que solicitar o modelo
-
     public String getModelo(){
         return this.modelo;
     }

@@ -1,4 +1,4 @@
-package contaBancaria;
+package contabancaria;
 
 public class Banco {
     public int numConta;

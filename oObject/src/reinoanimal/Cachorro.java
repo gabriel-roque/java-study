@@ -1,4 +1,4 @@
-package reinoAnimal;
+package reinoanimal;
 
 public class Cachorro {
     public static void main(String[] args) {
