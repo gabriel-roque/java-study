@@ -22,35 +22,42 @@ public class ControleRemoto implements Controlador{
      */
 
     // >> VOLUME
-    private int getVolume(){
-        return this.volume;
-    }
-    private void setVolume(int volume){
-        this.volume = volume;
-    }
-    // >> LIGADO
-    private boolean getLigado(){
-        return this.ligado;
-    }
-    private void setLigado(boolean ligado){
-        this.ligado = ligado;
-    }
-    // >> TOCANDO
-    private boolean getTocando(){
-        return this.tocando;
-    }
-    private void setTocando(boolean tocando){
-        this.tocando = tocando;
-    }
+        private int getVolume(){
+            return this.volume;
+        }
 
-    //metodos abstratos
-    public void ligar() {
-        this.ligado = true;
-    }
+        private void setVolume(int volume){
+            this.volume = volume;
+        }
 
-    public void desligar() {
-        this.ligado = false;
-    }
+        // >> LIGADO
+        private boolean getLigado(){
+            return this.ligado;
+        }
+
+        private void setLigado(boolean ligado){
+            this.ligado = ligado;
+        }
+
+        // >> TOCANDO
+        private boolean getTocando(){
+            return this.tocando;
+        }
+
+        private void setTocando(boolean tocando){
+            this.tocando = tocando;
+        }
+
+        //metodos abstratos
+        public void ligar() {
+            this.ligado = true;
+        }
+
+        public void desligar() {
+            this.ligado = false;
+        }
+
+    // metodos
 
     public void abrirMenu() {
         System.out.println("Esta Ligado? " + this.getLigado());
