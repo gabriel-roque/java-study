@@ -7,13 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="New changelist">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/contaBancaria/Banco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/contaBancaria/Cliente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/metodosEspeciais/Caneta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/metodosEspeciais/CanetaBic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/reinoAnimal/Cachorro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oObject/src/reinoAnimal/Mamifero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oObject/src/encapsulamento/Controlador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oObject/src/encapsulamento/Controle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oObject/src/encapsulamento/ControleRemoto.java" beforeDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/../" />
@@ -178,22 +176,22 @@
     <session id="-1561820959">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="5" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="84" />
+          <entry key="java" value="106" />
           <entry key="kt" value="1" />
           <entry key="png" value="3" />
           <entry key="xml" value="3" />
@@ -202,7 +200,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="3" />
-          <entry key="JAVA" value="84" />
+          <entry key="JAVA" value="106" />
           <entry key="Kotlin" value="1" />
           <entry key="XML" value="3" />
         </counts>
@@ -210,13 +208,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="25" />
-          <entry key="java" value="7944" />
+          <entry key="java" value="8611" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7944" />
+          <entry key="JAVA" value="8611" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="XML" value="1" />
         </counts>
@@ -227,50 +225,35 @@
     <favorites_list name="java-study" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5416222">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/ControleRemoto.java">
+            <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="57" column="51" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+                <state relative-caret-position="397">
+                  <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
                   <folding>
-                    <element signature="method#ControleRemoto#0;class#ControleRemoto#0" />
-                    <element signature="e#481#482#0" expanded="true" />
-                    <element signature="e#515#516#0" expanded="true" />
-                    <element signature="e#555#556#0" expanded="true" />
-                    <element signature="e#591#592#0" expanded="true" />
-                    <element signature="e#641#642#0" expanded="true" />
-                    <element signature="e#675#676#0" expanded="true" />
-                    <element signature="e#719#720#0" expanded="true" />
-                    <element signature="e#755#756#0" expanded="true" />
-                    <element signature="e#807#808#0" expanded="true" />
-                    <element signature="e#842#843#0" expanded="true" />
-                    <element signature="e#888#889#0" expanded="true" />
-                    <element signature="e#926#927#0" expanded="true" />
-                    <element signature="e#977#978#0" expanded="true" />
-                    <element signature="e#1011#1012#0" expanded="true" />
-                    <element signature="e#1041#1042#0" expanded="true" />
-                    <element signature="e#1076#1077#0" expanded="true" />
-                    <element signature="e#1371#1372#0" expanded="true" />
-                    <element signature="e#1425#1426#0" expanded="true" />
-                    <element signature="method#maisVolume#0;class#ControleRemoto#0" />
-                    <element signature="method#menosVolume#0;class#ControleRemoto#0" />
-                    <element signature="method#ligarMudo#0;class#ControleRemoto#0" />
-                    <element signature="method#desligarMudo#0;class#ControleRemoto#0" />
-                    <element signature="method#play#0;class#ControleRemoto#0" />
-                    <element signature="method#pause#0;class#ControleRemoto#0" />
+                    <element signature="method#Dlink#0;class#Dlink#0" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/Controle.java">
+            <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/encapsulamento/ControleRemoto.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="168">
-                  <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+                <state relative-caret-position="512">
+                  <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+                  <folding>
+                    <element signature="method#ControleRemoto#0;class#ControleRemoto#0" />
+                    <element signature="method#abrirMenu#0;class#ControleRemoto#0" />
+                    <element signature="method#maisVolume#0;class#ControleRemoto#0" />
+                    <element signature="method#menosVolume#0;class#ControleRemoto#0" />
+                    <element signature="method#ligarMudo#0;class#ControleRemoto#0" />
+                    <element signature="method#desligarMudo#0;class#ControleRemoto#0" />
+                    <element signature="method#pause#0;class#ControleRemoto#0" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -279,11 +262,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/Controlador.java">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="273">
-                  <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+                <state relative-caret-position="147">
+                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -296,8 +288,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Interface" />
         <option value="Kotlin Interface" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -324,9 +316,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/swing/src/pergunta.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/comentario.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/Comentario.java" />
         <option value="$PROJECT_DIR$/estruturado/src/ComentCode.java" />
         <option value="$PROJECT_DIR$/estruturado/src/ReplaceCode.java" />
         <option value="$PROJECT_DIR$/estruturado/src/TiposPrimitivos.java" />
@@ -375,6 +364,9 @@
         <option value="$PROJECT_DIR$/oObject/src/metodosespeciais/Controle.java" />
         <option value="$PROJECT_DIR$/oObject/src/encapsulamento/Controle.java" />
         <option value="$PROJECT_DIR$/oObject/src/encapsulamento/ControleRemoto.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java" />
       </list>
     </option>
   </component>
@@ -390,7 +382,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1482" />
     <option name="width" value="1906" />
     <option name="height" value="1071" />
@@ -439,17 +431,35 @@
             <path>
               <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
-              <item name="oObject" type="462c0819:PsiDirectoryNode" />
+              <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="encapsulamento" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="roteadorDlink" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,7 +470,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536362492795" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536365591067" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/negao/src/negao.jpg" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -485,20 +495,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Controle">
-    <configuration name="Cachorro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cachorro" />
-      <module name="negao" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Cachorro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reinoanimal.Cachorro" />
+  <component name="RunManager" selected="Application.RoteadorGabriel">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contabancaria.Cliente" />
       <module name="oObject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="reinoanimal.*" />
+          <option name="PATTERN" value="contabancaria.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -506,12 +509,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contabancaria.Cliente" />
-      <module name="oObject" />
+    <configuration name="Controle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="encapsulamento.Controle" />
+      <module name="primeiroPilarOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contabancaria.*" />
+          <option name="PATTERN" value="encapsulamento.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -545,20 +548,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RoteadorGabriel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="roteadorDlink.RoteadorGabriel" />
+      <module name="primeiroPilarOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="roteadorDlink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Cachorro" />
-      <item itemvalue="Application.Cachorro (1)" />
       <item itemvalue="Application.Cliente" />
       <item itemvalue="Application.Lapis" />
       <item itemvalue="Application.Controle" />
+      <item itemvalue="Application.Controle (1)" />
+      <item itemvalue="Application.RoteadorGabriel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RoteadorGabriel" />
+        <item itemvalue="Application.Controle (1)" />
         <item itemvalue="Application.Controle" />
         <item itemvalue="Application.Lapis" />
         <item itemvalue="Application.Cliente" />
-        <item itemvalue="Application.Cachorro" />
-        <item itemvalue="Application.Cachorro (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +639,8 @@
       <workItem from="1536266737046" duration="29000" />
       <workItem from="1536266793411" duration="2842000" />
       <workItem from="1536346069735" duration="779000" />
-      <workItem from="1536346864950" duration="6002000" />
+      <workItem from="1536346864950" duration="6345000" />
+      <workItem from="1536362844567" duration="2721000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -655,7 +672,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93463000" />
+    <option name="totallyTimeSpent" value="96527000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -670,7 +687,7 @@
     <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49087003" weight="0.1280683" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49087003" weight="0.12753469" />
       <window_info id="Structure" order="1" sideWeight="0.50912994" side_tool="true" weight="0.1189968" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -679,7 +696,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.5037274" side_tool="true" weight="0.12793177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32867885" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31471536" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31471536" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39742213" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -756,19 +773,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/swing/src/Calculadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/FomartCode.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/ComentCode.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Boolean.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoComum.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoWrapperClass.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/FormatCode.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/For.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/DeclaracaoTypeCast.java" />
     <entry file="file://$PROJECT_DIR$/estruturado/src/While.java" />
@@ -808,20 +812,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/classeExterior/src/Home.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/classeExterior/src/Operacoes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -830,13 +820,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oObject/src/bic.java" />
-    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/swing/src/dog.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -891,13 +874,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oObject/src/contabancaria/Banco.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -922,13 +898,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/teste.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/teste.kt" />
     <entry file="file://$PROJECT_DIR$/oObject/src/metodosespeciais/Lapis.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -940,16 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
           <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#860#861#0" expanded="true" />
-            <element signature="e#896#897#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#953#954#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1053#1054#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -974,51 +934,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/Controlador.java">
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Operacoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/OpTernario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/FormCidadao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/DeclaracaoTypeCast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/Idioma.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/Motorola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/smartphone/MotoG5.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/Controle.java">
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/encapsulamento/Controle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/encapsulamento/ControleRemoto.java">
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/encapsulamento/Controlador.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="57" column="51" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/encapsulamento/ControleRemoto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="92" column="23" lean-forward="true" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
           <folding>
             <element signature="method#ControleRemoto#0;class#ControleRemoto#0" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#555#556#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#641#642#0" expanded="true" />
-            <element signature="e#675#676#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#807#808#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
-            <element signature="e#888#889#0" expanded="true" />
-            <element signature="e#926#927#0" expanded="true" />
-            <element signature="e#977#978#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1371#1372#0" expanded="true" />
-            <element signature="e#1425#1426#0" expanded="true" />
+            <element signature="method#abrirMenu#0;class#ControleRemoto#0" />
             <element signature="method#maisVolume#0;class#ControleRemoto#0" />
             <element signature="method#menosVolume#0;class#ControleRemoto#0" />
             <element signature="method#ligarMudo#0;class#ControleRemoto#0" />
             <element signature="method#desligarMudo#0;class#ControleRemoto#0" />
-            <element signature="method#play#0;class#ControleRemoto#0" />
             <element signature="method#pause#0;class#ControleRemoto#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding>
+            <element signature="method#Dlink#0;class#Dlink#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
