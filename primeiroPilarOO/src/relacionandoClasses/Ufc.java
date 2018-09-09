@@ -1,6 +1,6 @@
 package relacionandoClasses;
 
-public class Batalha {
+public class Ufc {
     public static void main(String[] args) {
 
         Lutador l[] = new Lutador[6];
@@ -23,11 +23,9 @@ public class Batalha {
         l[5] = new Lutador("Nerd", "EUA", 30, 1.81, 105.7,
                             12,2, 4);
 
-
-        l[3].apresetar();
-        l[3].ganharLuta();
-        l[3].status();
-
+        Luta UFC01 = new Luta();
+        UFC01.marcarLuta(l[4], l[5]);
+        UFC01.lutar();
 
     }
 }
