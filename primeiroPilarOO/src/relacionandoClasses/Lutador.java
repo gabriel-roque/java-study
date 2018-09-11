@@ -11,7 +11,7 @@ public class Lutador {
     private int vitorias;
     private int derrotas;
     private int empates;
- 
+
 
     Lutador(String nome, String nasc, int idade, double altura, double peso, int vitorias, int derrotas, int empates){
 

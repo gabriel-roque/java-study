@@ -9,6 +9,8 @@
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="Praticando encapsulamento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java" beforeDir="false" afterPath="$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java" beforeDir="false" afterPath="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java" beforeDir="false" afterPath="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java" afterDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/../" />
@@ -173,26 +175,26 @@
     <session id="-1561820959">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="7" />
           <entry key="project.open.time.7" value="7" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="4" />
-          <entry key="project.opened" value="29" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JAVA/" value="1" />
-          <entry key="java" value="161" />
+          <entry key="java" value="184" />
           <entry key="kt" value="1" />
           <entry key="png" value="6" />
           <entry key="xml" value="3" />
@@ -201,7 +203,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="6" />
-          <entry key="JAVA" value="161" />
+          <entry key="JAVA" value="184" />
           <entry key="Kotlin" value="1" />
           <entry key="UML" value="1" />
           <entry key="XML" value="3" />
@@ -210,14 +212,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="47" />
-          <entry key="java" value="12601" />
+          <entry key="java" value="14011" />
           <entry key="txt" value="25" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12601" />
+          <entry key="JAVA" value="14011" />
           <entry key="PLAIN_TEXT" value="72" />
           <entry key="XML" value="1" />
         </counts>
@@ -230,17 +232,49 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java">
+        <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Livro.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="398">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
-                <element signature="method#Lutador#0;class#Lutador#0" />
-                <element signature="method#apresetar#0;class#Lutador#0" />
-                <element signature="method#status#0;class#Lutador#0" />
-                <element signature="method#setPeso#0;class#Lutador#0" />
-                <element signature="method#setCategoria#0;class#Lutador#0" />
+                <element signature="method#getTitulo#0;class#Livro#0" />
+                <element signature="method#setTitulo#0;class#Livro#0" />
+                <element signature="method#getAutor#0;class#Livro#0" />
+                <element signature="method#setAutor#0;class#Livro#0" />
+                <element signature="method#getTotPags#0;class#Livro#0" />
+                <element signature="method#setTotPags#0;class#Livro#0" />
+                <element signature="method#getPagAtual#0;class#Livro#0" />
+                <element signature="method#setPagAtual#0;class#Livro#0" />
+                <element signature="method#setAberto#0;class#Livro#0" />
+                <element signature="method#getLeitor#0;class#Livro#0" />
+                <element signature="method#setLeitor#0;class#Livro#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Pessoa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding>
+                <element signature="method#getNome#0;class#Pessoa#0" />
+                <element signature="method#setNome#0;class#Pessoa#0" />
+                <element signature="method#getIdade#0;class#Pessoa#0" />
+                <element signature="method#setIdade#0;class#Pessoa#0" />
+                <element signature="method#getSexo#0;class#Pessoa#0" />
+                <element signature="method#setSexo#0;class#Pessoa#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Publicacao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -269,12 +303,14 @@
       <find>soma</find>
       <find>private String nome\;\n    private String nacionanlidade\;\n    private int idade\;\n    private double altura\;\n    private double peso\;\n    private String categoria\;\n    private int vitorias\;\n    private int derrotas\;\n    private int empates\;</find>
       <find>double</find>
+      <find>respBasemenor</find>
     </findStrings>
     <replaceStrings>
       <replace>idade</replace>
       <replace>gabriel</replace>
       <replace>modelo</replace>
       <replace>float</replace>
+      <replace>rBaseMenor</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -283,13 +319,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/estruturado/src/DeclaracaoWrapperClass.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/For.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/While.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/EntradaDados.java" />
-        <option value="$PROJECT_DIR$/swing/src/Teste.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/String_Int.java" />
-        <option value="$PROJECT_DIR$/estruturado/src/Int_String.java" />
         <option value="$PROJECT_DIR$/estruturado/src/OpTernario.java" />
         <option value="$PROJECT_DIR$/swing/src/Nome.java" />
         <option value="$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
@@ -322,8 +351,6 @@
         <option value="$PROJECT_DIR$/oObject/src/metodosespeciais/Controle.java" />
         <option value="$PROJECT_DIR$/oObject/src/encapsulamento/Controle.java" />
         <option value="$PROJECT_DIR$/oObject/src/encapsulamento/ControleRemoto.java" />
-        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java" />
-        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java" />
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java" />
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/encapsulamento/ControleRemoto.java" />
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Batalha.java" />
@@ -334,6 +361,15 @@
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/formula1/Corrida.java" />
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/formula1/Disputa.java" />
         <option value="$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/vida/Publicacao.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/StringToInt.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/EntradaDeDados.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/CalculandoTrapezio.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/Triangulo.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/vida/Pessoa.java" />
+        <option value="$PROJECT_DIR$/primeiroPilarOO/src/vida/Livro.java" />
       </list>
     </option>
   </component>
@@ -350,9 +386,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
-    <option name="width" value="1922" />
-    <option name="height" value="1081" />
+    <option name="x" value="2169" />
+    <option name="width" value="1914" />
+    <option name="height" value="1076" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -377,8 +413,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -389,6 +425,17 @@
             <path>
               <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="faculdade" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
+              <item name="faculdade" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-study" type="462c0819:PsiDirectoryNode" />
               <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -402,7 +449,7 @@
               <item name="java-study" type="462c0819:PsiDirectoryNode" />
               <item name="primeiroPilarOO" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="relacionandoClasses" type="462c0819:PsiDirectoryNode" />
+              <item name="vida" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -419,7 +466,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536516854436" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536623791468" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/negao/src/negao.jpg" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -444,16 +491,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Disputa">
-    <configuration name="Controle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="encapsulamento.Controle" />
-      <module name="primeiroPilarOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="encapsulamento.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.Triangulo">
+    <configuration name="CalculandoTrapezio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculandoTrapezio" />
+      <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -471,15 +512,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoteadorGabriel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="roteadorDlink.RoteadorGabriel" />
-      <module name="primeiroPilarOO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="roteadorDlink.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="EntradaDeDados" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EntradaDeDados" />
+      <module name="faculdade" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangulo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangulo" />
+      <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -497,37 +539,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All Features in: relacionandoClasses" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="3" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="primeiroPilarOO" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
-      <option name="SUGGESTED_NAME" value="All Features in: relacionandoClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Controle (1)" />
-      <item itemvalue="Application.RoteadorGabriel" />
       <item itemvalue="Application.Ufc" />
-      <item itemvalue="Cucumber java.All Features in: relacionandoClasses" />
       <item itemvalue="Application.Disputa" />
+      <item itemvalue="Application.EntradaDeDados" />
+      <item itemvalue="Application.CalculandoTrapezio" />
+      <item itemvalue="Application.Triangulo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Triangulo" />
+        <item itemvalue="Application.CalculandoTrapezio" />
+        <item itemvalue="Application.EntradaDeDados" />
         <item itemvalue="Application.Disputa" />
         <item itemvalue="Application.Ufc" />
-        <item itemvalue="Cucumber java.All Features in: relacionandoClasses" />
-        <item itemvalue="Application.RoteadorGabriel" />
-        <item itemvalue="Application.Controle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -599,7 +624,9 @@
       <workItem from="1536436450124" duration="3528000" />
       <workItem from="1536452785175" duration="2323000" />
       <workItem from="1536494798285" duration="12018000" />
-      <workItem from="1536605735478" duration="1392000" />
+      <workItem from="1536605735478" duration="2132000" />
+      <workItem from="1536618796163" duration="5012000" />
+      <workItem from="1536635945147" duration="1079000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -638,7 +665,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124828000" />
+    <option name="totallyTimeSpent" value="131659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,10 +677,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49194413" visible="true" weight="0.13553895" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49194413" visible="true" weight="0.1307364" />
       <window_info id="Structure" order="1" sideWeight="0.50805587" side_tool="true" weight="0.1339381" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -773,41 +800,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/swing/src/Entrada.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="42" lean-forward="true" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/estruturado/src/EntradaDados.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/SwitchCase.java" />
-    <entry file="file://$PROJECT_DIR$/estruturado/src/Array.java" />
-    <entry file="file://$PROJECT_DIR$/basico/src/Array2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oObject/src/bic.java" />
-    <entry file="file://$PROJECT_DIR$/swing/src/dog.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/swing/src/AddImage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="147" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="147" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/negao/src/Cachorro.java" />
     <entry file="file://$PROJECT_DIR$/negao/src/Mamifero.java" />
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
@@ -821,13 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basico/src/EntradaDados.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -937,13 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1017,13 +995,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basico/src/SwitchCase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1093,16 +1064,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/formula1/Corrida.java" />
     <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/formula1/Veiculo.java" />
     <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/formula1/Disputa.java" />
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="method#Lutador#0;class#Lutador#0" />
+            <element signature="method#apresetar#0;class#Lutador#0" />
+            <element signature="method#status#0;class#Lutador#0" />
+            <element signature="method#setPeso#0;class#Lutador#0" />
+            <element signature="method#setCategoria#0;class#Lutador#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Ufc.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="609">
@@ -1112,21 +1090,134 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Luta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <folding>
+            <element signature="method#marcarLuta#0;class#Luta#0" />
+            <element signature="method#lutar#0;class#Luta#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/relacionandoClasses/Lutador.java">
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Dlink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="26" column="42" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+          <folding>
+            <element signature="method#Dlink#0;class#Dlink#0" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#896#897#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/Roteador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="36" lean-forward="true" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/roteadorDlink/RoteadorGabriel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/String_Int.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/StringToInt.java" />
+    <entry file="file://$PROJECT_DIR$/basico/src/EntradaDados.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/EntradaDeDados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/CalculandoTrapezio.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="59" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Triangulo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding>
-            <element signature="method#Lutador#0;class#Lutador#0" />
-            <element signature="method#apresetar#0;class#Lutador#0" />
-            <element signature="method#status#0;class#Lutador#0" />
-            <element signature="method#setPeso#0;class#Lutador#0" />
-            <element signature="method#setCategoria#0;class#Lutador#0" />
+            <element signature="method#getNome#0;class#Pessoa#0" />
+            <element signature="method#setNome#0;class#Pessoa#0" />
+            <element signature="method#getIdade#0;class#Pessoa#0" />
+            <element signature="method#setIdade#0;class#Pessoa#0" />
+            <element signature="method#getSexo#0;class#Pessoa#0" />
+            <element signature="method#setSexo#0;class#Pessoa#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Publicacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/JDK/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="244" column="18" selection-start-line="244" selection-start-column="18" selection-end-line="244" selection-end-column="18" />
+          <folding>
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/vida/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="method#getTitulo#0;class#Livro#0" />
+            <element signature="method#setTitulo#0;class#Livro#0" />
+            <element signature="method#getAutor#0;class#Livro#0" />
+            <element signature="method#setAutor#0;class#Livro#0" />
+            <element signature="method#getTotPags#0;class#Livro#0" />
+            <element signature="method#setTotPags#0;class#Livro#0" />
+            <element signature="method#getPagAtual#0;class#Livro#0" />
+            <element signature="method#setPagAtual#0;class#Livro#0" />
+            <element signature="method#setAberto#0;class#Livro#0" />
+            <element signature="method#getLeitor#0;class#Livro#0" />
+            <element signature="method#setLeitor#0;class#Livro#0" />
           </folding>
         </state>
       </provider>

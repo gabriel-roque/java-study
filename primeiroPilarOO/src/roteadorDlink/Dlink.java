@@ -14,6 +14,7 @@ public class Dlink implements Roteador{
     private String getNome() {
         return nome;
     }
+
     private void setNome(String nome) {
         this.nome = nome;
     }
@@ -22,6 +23,7 @@ public class Dlink implements Roteador{
     private boolean getLigado() {
         return ligado;
     }
+
     private void setLigado(boolean ligado) {
         this.ligado = ligado;
     }
@@ -30,6 +32,7 @@ public class Dlink implements Roteador{
     private boolean getConexao() {
         return conexao;
     }
+
     private void setConexao(boolean conexao) {
         this.conexao = conexao;
     }
