@@ -30,4 +30,7 @@ public class Moto extends Veiculo{
     public void setPedal(boolean pedal) {
         this.pedal = pedal;
     }
+
+
+
 }
