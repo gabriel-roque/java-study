@@ -1,0 +1,34 @@
+package heranca;
+
+// com o extends digo que aluno e uma subclasse ou classe filha de Pessoa
+
+public class Aluno extends Pessoa{
+
+    private int matr;
+    private String curso;
+
+
+    public void cancelarMatr(){
+
+        System.out.println("Matricula sera cancelada");
+
+    }
+
+
+    public int getMatr() {
+        return matr;
+    }
+
+    public void setMatr(int matr) {
+        this.matr = matr;
+    }
+
+    public String getCurso() {
+        return curso;
+    }
+
+    public void setCurso(String curso) {
+        this.curso = curso;
+    }
+
+}
