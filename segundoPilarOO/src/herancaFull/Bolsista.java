@@ -1,9 +1,5 @@
 package herancaFull;
 
-
-// classe final (folha)
-
-
 public final class Bolsista extends Aluno {
 
     private float bolsa;
