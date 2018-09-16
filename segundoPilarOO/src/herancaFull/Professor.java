@@ -1,6 +1,6 @@
 package herancaFull;
 
-public class Professor {
+public class Professor extends Pessoa{
 
     private String especialidade;
     private double salario;

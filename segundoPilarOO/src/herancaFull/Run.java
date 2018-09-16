@@ -14,6 +14,10 @@ public class Run {
         a1.pagarMensalidade();
         b1.pagarMensalidade();
 
+        Professor p1 = new Professor();
+        p1.setNome("Arnaldo");
+        p1.receberAumento();
+
 
 
     }
