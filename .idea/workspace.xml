@@ -8,6 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1717ad0c-79d3-4c51-ba04-7be83eb09f0d" name="New changelist" comment="Praticando encapsulamento">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faculdade/src/Gabriel Roque m. Silva (Condicional de dados).zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/faculdade/src/Gabriel Roque m. Silva (Manipulacao de Daos).zip" beforeDir="false" />
     </list>
     <list id="13f3d653-14a2-4ff5-87fc-39dfdc6aa345" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/../" />
@@ -173,20 +175,21 @@
     <session id="-1561820959">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="7" />
-          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.7" value="11" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="6" />
-          <entry key="project.opened" value="36" />
+          <entry key="project.open.time.9" value="7" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -200,7 +203,9 @@
           <entry key="Peixe" value="1" />
           <entry key="Reptil" value="1" />
           <entry key="gif" value="1" />
-          <entry key="java" value="324" />
+          <entry key="gitignore" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="354" />
           <entry key="kt" value="1" />
           <entry key="png" value="9" />
           <entry key="xml" value="3" />
@@ -208,25 +213,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="IDEA_MODULE" value="1" />
           <entry key="Image" value="10" />
-          <entry key="JAVA" value="324" />
+          <entry key="JAVA" value="354" />
           <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="UML" value="15" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="63" />
-          <entry key="java" value="21382" />
+          <entry key="dummy" value="68" />
+          <entry key="java" value="25184" />
           <entry key="txt" value="25" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21382" />
-          <entry key="PLAIN_TEXT" value="88" />
+          <entry key="JAVA" value="25184" />
+          <entry key="PLAIN_TEXT" value="93" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -236,7 +243,17 @@
     <favorites_list name="java-study" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/faculdade/src/CacularS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -256,7 +273,6 @@
       <find>m</find>
       <find>floar</find>
       <find>idade</find>
-      <find>soma</find>
       <find>private String nome\;\n    private String nacionanlidade\;\n    private int idade\;\n    private double altura\;\n    private double peso\;\n    private String categoria\;\n    private int vitorias\;\n    private int derrotas\;\n    private int empates\;</find>
       <find>double</find>
       <find>respBasemenor</find>
@@ -265,6 +281,7 @@
       <find>m1</find>
       <find>public</find>
       <find>private</find>
+      <find>soma</find>
     </findStrings>
     <replaceStrings>
       <replace>idade</replace>
@@ -277,6 +294,8 @@
       <replace>ob1</replace>
       <replace>private</replace>
       <replace>public</replace>
+      <replace>f1</replace>
+      <replace>f2</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -285,17 +304,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/primeiroPilarOO/src/formula1/Main.java" />
-        <option value="$PROJECT_DIR$/primeiroPilarOO/src/formula1/Piloto.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/heranca/Aluno.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/heranca/Professor.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/heranca/Funcionario.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/heranca/Pessoa.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/Main.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/heranca/Main.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Cachorro.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Vaca.java" />
-        <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Mamifero.java" />
         <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Veiculo.java" />
         <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Main.java" />
         <option value="$PROJECT_DIR$/segundoPilarOO/src/herancaSimples/Carro.java" />
@@ -336,6 +344,17 @@
         <option value="$PROJECT_DIR$/faculdade/src/MaiorValor.java" />
         <option value="$PROJECT_DIR$/faculdade/src/Delta.java" />
         <option value="$PROJECT_DIR$/faculdade/src/Operacoes2Var.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/Fatorial.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/FatorialWhile.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/FatorialFor.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/TemperaturaFC.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/Op2While.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/faculdade/src/QuebraLaco.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/ListaNomes.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/DadosCombinacao.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/CalcS.java" />
+        <option value="$PROJECT_DIR$/faculdade/src/CacularS.java" />
       </list>
     </option>
   </component>
@@ -352,9 +371,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1755" />
-    <option name="width" value="1608" />
-    <option name="height" value="911" />
+    <option name="x" value="2220" />
+    <option name="width" value="1274" />
+    <option name="height" value="722" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -379,9 +398,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -414,7 +433,7 @@
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537303475648" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538194212319" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/negao/src/negao.jpg" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -439,56 +458,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Operacoes2Var">
-    <configuration name="CalculandoTrapezio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculandoTrapezio" />
+  <component name="RunManager" selected="Application.CacularS">
+    <configuration name="CacularS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CacularS" />
       <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Delta" />
+    <configuration name="CalcS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalcS" />
       <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaiorValor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MaiorValor" />
+    <configuration name="DadosCombinacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DadosCombinacao" />
       <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operacoes2Var" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operacoes2Var" />
+    <configuration name="ListaNomes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListaNomes" />
       <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Youtube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Youtube" />
-      <module name="projetoFinal" />
+    <configuration name="QuebraLaco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuebraLaco" />
+      <module name="faculdade" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Youtube" />
-      <item itemvalue="Application.MaiorValor" />
-      <item itemvalue="Application.CalculandoTrapezio" />
-      <item itemvalue="Application.Delta" />
-      <item itemvalue="Application.Operacoes2Var" />
+      <item itemvalue="Application.ListaNomes" />
+      <item itemvalue="Application.QuebraLaco" />
+      <item itemvalue="Application.DadosCombinacao" />
+      <item itemvalue="Application.CalcS" />
+      <item itemvalue="Application.CacularS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operacoes2Var" />
-        <item itemvalue="Application.Delta" />
-        <item itemvalue="Application.CalculandoTrapezio" />
-        <item itemvalue="Application.MaiorValor" />
-        <item itemvalue="Application.Youtube" />
+        <item itemvalue="Application.CacularS" />
+        <item itemvalue="Application.CalcS" />
+        <item itemvalue="Application.DadosCombinacao" />
+        <item itemvalue="Application.ListaNomes" />
+        <item itemvalue="Application.QuebraLaco" />
       </list>
     </recent_temporary>
   </component>
@@ -570,6 +589,12 @@
       <workItem from="1536751976283" duration="5543000" />
       <workItem from="1537098850032" duration="16977000" />
       <workItem from="1537286805168" duration="5638000" />
+      <workItem from="1537303521671" duration="210000" />
+      <workItem from="1537556729736" duration="1104000" />
+      <workItem from="1537823208768" duration="16000" />
+      <workItem from="1537829881299" duration="6540000" />
+      <workItem from="1538077038883" duration="7028000" />
+      <workItem from="1538160855899" duration="8063000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1534791963865</created>
@@ -608,7 +633,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176211000" />
+    <option name="totallyTimeSpent" value="199172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -620,9 +645,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1919" y="0" width="1922" height="1081" extended-state="6" />
+    <frame x="1918" y="-8" width="1924" height="1090" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49194413" weight="0.12860192" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49194413" visible="true" weight="0.120064035" />
       <window_info id="Structure" order="1" sideWeight="0.50805587" side_tool="true" weight="0.1339381" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -631,17 +656,17 @@
       <window_info id="Favorites" order="6" sideWeight="0.50805587" side_tool="true" weight="0.1339381" />
       <window_info anchor="bottom" id="Thumbnails" order="0" weight="0.32975295" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32867885" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.36734694" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.39742213" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3279743" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.36655948" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3965702" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4989339" weight="0.32867885" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49840087" weight="0.32975295" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.55531687" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.5551983" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.556391" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.2631579" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.26259378" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.32938075" />
       <window_info anchor="bottom" id="Inspection Results" order="14" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -711,232 +736,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/biblioteca/Livro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="29" column="42" lean-forward="true" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/segundoPilarOO/src/herancaFull/Tecnico.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/segundoPilarOO/src/herancaFull/Visitante.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/segundoPilarOO/src/herancaFull/Professor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/Mamifero.java" />
-    <entry file="uml://JAVA/sobreposicao.Reptil">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>sobreposicao.Reptil</OriginalElement>
-          <nodes>
-            <node x="" y="">sobreposicao.Reptil</node>
-            <node x="" y="">sobreposicao.Animal</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="56.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JavaScript-modules-diagram//home/gabriel-odyssey/Documentos/estudos/java/java-study/terceiroPilarOO/src/sobreposicao">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="818.0" y="439.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/herancaFull">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>herancaFull</OriginalElement>
-          <nodes>
-            <node x="" y="">herancaFull.Pessoa</node>
-            <node x="" y="">herancaFull.Professor</node>
-            <node x="" y="">herancaFull.Run</node>
-            <node x="" y="">herancaFull.Aluno</node>
-            <node x="" y="">herancaFull.Bolsista</node>
-            <node x="" y="">herancaFull.Visitante</node>
-            <node x="" y="">herancaFull.Tecnico</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.1" x="210.0" y="151.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/sobreposicao.Peixe">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>sobreposicao.Peixe</OriginalElement>
-          <nodes>
-            <node x="" y="">sobreposicao.Peixe</node>
-            <node x="" y="">sobreposicao.Animal</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="56.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/sobreposicao.Animal">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>sobreposicao.Animal</OriginalElement>
-          <nodes>
-            <node x="" y="">sobreposicao.Animal</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="45.0" y="16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Ave.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Peixe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" selection-start-line="4" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Reptil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Cobra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Tartaruga.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/GoldFish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Arara.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Cachorro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/sobreposicao">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>sobreposicao</OriginalElement>
-          <nodes>
-            <node x="" y="">sobreposicao.Mamifero</node>
-            <node x="" y="">sobreposicao.Run</node>
-            <node x="" y="">sobreposicao.Peixe</node>
-            <node x="" y="">sobreposicao.Arara</node>
-            <node x="" y="">sobreposicao.Reptil</node>
-            <node x="" y="">sobreposicao.Ave</node>
-            <node x="" y="">sobreposicao.Tartaruga</node>
-            <node x="" y="">sobreposicao.Canguru</node>
-            <node x="" y="">sobreposicao.Cobra</node>
-            <node x="" y="">sobreposicao.GoldFish</node>
-            <node x="" y="">sobreposicao.Animal</node>
-            <node x="" y="">sobreposicao.Cachorro</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="337.0" y="135.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Canguru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/terceiroPilarOO/src/sobreposicao/Mamifero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1175,27 +974,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faculdade/src/EntradaDeDados.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/faculdade/src/CalculandoTrapezio.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faculdade/src/Delta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1234,17 +1016,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faculdade/src/Operacoes2Var.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/faculdade/src/MaiorValor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/caneta/MinhasCanetas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oObject/src/caneta/Caneta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/EntradaDeDados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Delta.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/faculdade.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/FatorialWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/FatorialFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/TemperaturaFC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Operacoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classeExterior/src/Home.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/biblioteca/Pessoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/biblioteca/Livro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/primeiroPilarOO/src/biblioteca/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Cachorro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Operacoes2Var.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="33" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/Op2While.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/QuebraLaco.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basico/src/EntradaDados.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/ListaNomes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/DadosCombinacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/CalcS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faculdade/src/CacularS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
