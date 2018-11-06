@@ -80,6 +80,41 @@ public class Componentes {
 
         frame.add(cx1); frame.add(cx2);
 
+        //RADIO BUTTON
+
+        JRadioButton r1, r2;
+            r1 = new JRadioButton("Luke Skywalker");
+            r1.setBounds(20, 200, 100,100);
+
+        frame.add(r1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
