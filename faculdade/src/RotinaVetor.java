@@ -31,7 +31,6 @@ public class RotinaVetor {
 
 
         menu();
-       //chamar menu //todo
     }
 
 
