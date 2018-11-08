@@ -9,7 +9,7 @@ public class Gui01{
         // FRAME
 
         JFrame f = new JFrame("DESAFIO 01 SWING");
-        f.setLayout(new GridLayout(3, 0));
+//        f.setLayout(new GridLayout(3, 0));
 
         // MENU BAR
 
@@ -35,7 +35,7 @@ public class Gui01{
 
         JPanel pTop = new JPanel();
             pTop.setBounds(10,5, 375, 10);
-            pTop.setBackground(Color.cyan);
+//            pTop.setBackground(Color.cyan);
 
             // Matricula
 
@@ -55,7 +55,7 @@ public class Gui01{
 
         pTop.add(mat); pTop.add(cpMat);
         pTop.add(tur); pTop.add(cpTur);
-        f.add(pTop);
+        f.add(pTop, BorderLayout.NORTH);
 
 
         // SEPARTOR TOP
@@ -68,8 +68,16 @@ public class Gui01{
 
         JPanel pMid = new JPanel();
             pMid.setBounds(10,50,375,10);
-            pMid.setBackground(Color.gray);
-        f.add(pMid);
+//            pMid.setBackground(Color.gray);
+        f.add(pMid, BorderLayout.CENTER);
+
+        JLabel l1, l2, l3, l4;
+        JTextField tx1, tx2, tx3, tx4;
+
+        l1 = new JLabel("Nome:");
+        l2 = new JLabel("Endereço:");
+        l3 = new JLabel("Telefone:");
+        l4 = new JLabel("CPF:");
 
 
 
