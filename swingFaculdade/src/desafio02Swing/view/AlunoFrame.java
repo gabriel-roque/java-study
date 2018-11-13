@@ -1,8 +1,11 @@
-package desafio02Swing;
+package desafio02Swing.view;
+
+import desafio02Swing.controller.Controlador;
+import desafio02Swing.model.Aluno;
 
 import javax.swing.*;
 
-public class AlunoFrame extends Controlador{
+public class AlunoFrame{
 
     private JTextField nomeTextFiled;
     private JButton okButtun;

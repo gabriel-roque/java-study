@@ -1,4 +1,4 @@
-package desafio02Swing;
+package desafio02Swing.model;
 
 public class Aluno {
 

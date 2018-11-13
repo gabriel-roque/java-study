@@ -1,8 +1,10 @@
-package desafio02Swing;
+package desafio02Swing.view;
+
+import desafio02Swing.controller.Controlador;
 
 import javax.swing.*;
 
-public class AlunosCadastroFrame extends Controlador{
+public class AlunosCadastroFrame{
 
     private JMenuItem cadastrarMenuItem;
     private JMenuItem editarMenuItem;

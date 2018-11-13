@@ -1,6 +1,8 @@
-package desafio02Swing;
+package desafio02Swing.controller;
 
-public class Controlador extends Aluno{
+import desafio02Swing.model.Aluno;
+
+public class Controlador{
 
     private Aluno aluno[];
     private int pos;
@@ -39,9 +41,4 @@ public class Controlador extends Aluno{
         return parm;
 
     }
-
-
-
-
-
 }

@@ -1,8 +1,10 @@
-package desafio02Swing;
+package desafio02Swing.view;
+
+import desafio02Swing.controller.Controlador;
 
 import javax.swing.*;
 
-public class TurmaFrame extends Controlador{
+public class TurmaFrame{
 
     private JButton listarAlunosButton,
                     resultadosButton,
